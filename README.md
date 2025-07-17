@@ -1,2 +1,2 @@
 ## Hi, I’m Sharvil Wadekar, 
-<p>A Machine Learning Engineer with hands-on experience in autonomous vehicle perception, motion planning, and speech recognition. At NVIDIA, I worked on LiDARNet, ParkNet, and end-to-end planning systems, along with deploying real-time ASR/TTS models using PyTorch, JAX, and TensorRT. I’m passionate about building efficient, reliable ML solutions that translate cutting-edge research into real-world autonomy.<p/>
+<p>A Machine Learning Engineer and Data Scientist with experience developing real-world AI solutions in computer vision, NLP, and large language models. At NVIDIA, I contributed to autonomous vehicle research and deployed real-time speech systems with the Riva team.<p/>
