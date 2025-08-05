@@ -1,2 +1,2 @@
 ## Hi, I’m Sharvil Wadekar, 
-<p>A Machine Learning Engineer and Data Scientist with experience developing real-world AI solutions in computer vision and LLMs. At NVIDIA, I contributed to autonomous vehicle research and deployed real-time speech systems with the Riva team.<p/>
+<p>With 4+ years of experience in deep learning and data science, I specialize in developing and deploying intelligent systems that power speech applications, natural language understanding, and autonomous technologies. My expertise spans the entire machine learning lifecycle—designing models, optimizing real-time inference, and scaling solutions across cloud and edge environments.<p/>
